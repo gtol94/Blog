@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="postgresql-42.2.142">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/untitled52/out/artifacts/untitled52_war_exploded/WEB-INF/lib/postgresql-42.2.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
